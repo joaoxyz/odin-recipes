@@ -1,0 +1,25 @@
+* {
+    background-color: #1c1d1f;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+.header {
+    color: darkgoldenrod;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.page-title {
+    text-align: center;
+}
+
+.centered-image {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.homepage-link {
+    font-family: 'Courier New', Courier, monospace;
+    color: #1f8fb5;
+}
